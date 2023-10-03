@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.305" tests="4" skipped="0" failures="0" errors="0">
+<testcase classname="To verify the letcode webpage" name="To verify the letcode webpage login with valid credentials - Example #1.1" time="0.04">
+<system-out><![CDATA[
+Given User should be in Login page..........................................passed
+When User should enter the "umasit" and "uma123"............................passed
+Then User should to Click the buttons.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="To verify the letcode webpage" name="To verify the letcode webpage login with valid credentials - Example #1.2" time="0.003">
+<system-out><![CDATA[
+Given User should be in Login page..........................................passed
+When User should enter the "umasit77" and "uma@1"...........................passed
+Then User should to Click the buttons.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="To verify the letcode webpage" name="To verify the letcode webpage login with valid credentials - Example #1.3" time="0.001">
+<system-out><![CDATA[
+Given User should be in Login page..........................................passed
+When User should enter the "um1234" and "pwssat"............................passed
+Then User should to Click the buttons.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="To verify the letcode webpage" name="To verify the letcode webpage login with valid credentials - Example #1.4" time="0.001">
+<system-out><![CDATA[
+Given User should be in Login page..........................................passed
+When User should enter the "uma1234" and "9876M"............................passed
+Then User should to Click the buttons.......................................passed
+]]></system-out>
+</testcase>
+</testsuite>
